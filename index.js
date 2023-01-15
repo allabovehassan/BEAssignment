@@ -16,7 +16,7 @@ app.use("/notes", notesRoute);
 
 
 app.get("/", (req, res) => {
-    res.send(`Home Page`)
+    res.send(`Home PAGE`)
 })
 
 
